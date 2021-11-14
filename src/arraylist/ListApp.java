@@ -15,7 +15,7 @@ public class ListApp {
 	 */
 	public static void main(String[] args) {
 
-		// Instantiate three different lists
+		// Instantiate three lists, each of a different object type.
 		ArrayList<String> stringList = new ArrayList<String>();
 		ArrayList<Square> squareList = new ArrayList<Square>();
 		ArrayList<PointThreeD> pointList = new ArrayList<PointThreeD>();
