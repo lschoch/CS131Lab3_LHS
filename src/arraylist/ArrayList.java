@@ -51,7 +51,7 @@ public class ArrayList<T> {
    		StringBuilder sb = new StringBuilder("");
    	
    		for (int i=0; i<currentItem-1; i++) {
-   			sb.append(arList[i].toString() + "  ");
+   			sb.append(arList[i].toString() + "\n");
    		}
    		sb.append(arList[currentItem-1]);
    		return sb.toString();
