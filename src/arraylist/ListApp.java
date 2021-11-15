@@ -24,7 +24,7 @@ public class ListApp {
 		stringList.addItem("First string.");
 		stringList.addItem("Second string.");
 		stringList.addItem("Fourth string.");
-		stringList.addItem("What happened to \"Third string\"?");
+		stringList.addItem("What happened to \"Third string.\"?");
 		System.out.println("\nstringList:");
 		System.out.println("-----------");
 		System.out.println(stringList.toString());
